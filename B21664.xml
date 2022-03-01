@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anglia rediviva, or, The miraculous return of the breath of our nostrils a poem / by Edmund Elis.</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21664</idno>
+            <idno type="STC">Wing E660</idno>
+            <idno type="EEBO-CITATION">11230238</idno>
+            <idno type="OCLC">ocm 11230238</idno>
+            <idno type="VID">204927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anglia rediviva, or, The miraculous return of the breath of our nostrils a poem / by Edmund Elis.</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>[4], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204927:1"/>
+            <pb facs="tcp:204927:1" rendition="simple:additions"/>
+            <p>
+               <hi>ANGLIA REDIVIVA.</hi> OR The Miraculous Return of THE BREATH OF OUR NOSTRILS. A POEM.</p>
+            <p>By EDMUND ELIS, Maſter of Arts.</p>
+            <figure>
+               <figDesc>two royal badges, one a rose with crown and the other a thistle with crown</figDesc>
+            </figure>
+            <p>Printed in the Year, 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:204927:2"/>
+            <pb facs="tcp:204927:2"/>
+            <p>TO <hi>THE MOST HIGH</hi> AND <hi>MIGHTY PRINCE</hi> CHARLES II: KING OF GREAT BRITTAINE, FRANCE, and IRELAND: <hi>The Author, His</hi> MAjESTIES <hi>moſt Loyall Subject, Humbly Dedicates this following POEM.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:204927:3"/>
+            <pb n="1" facs="tcp:204927:3"/>
+            <head>ANGLIA REDIVIVA.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">N</seg>O Voice, more ſoft then Thunder, can expreſſe</l>
+               <l>Our preſent <hi>Ioy,</hi> or our paſt <hi>Heavineſſe:</hi>
+               </l>
+               <l>None can the Largeneſſe of This <hi>Ioy</hi> ſet out,</l>
+               <l>Vnleſſe at once He make THREE KINGDOMES <hi>Shout:</hi>
+               </l>
+               <l>Which is the Greater, ſith through <hi>Griefe</hi> it Came:</l>
+               <l>As <hi>Water</hi> Vanquiſht ſtill Augments the <hi>Flame.</hi>
+               </l>
+               <l>In <hi>Mirth,</hi> and <hi>Laughter</hi> now, and Pleaſant <hi>Tones,</hi>
+               </l>
+               <l>We Spend that <hi>Breath,</hi> which we Fetcht up for <hi>Groans.</hi>
+               </l>
+               <l>Oh, how we Droopt, and Hung our Heads to ſee</l>
+               <l>
+                  <hi>Rebellion</hi> Proſper? How we griev'd to be</l>
+               <l>
+                  <hi>Iudgd</hi> for the <hi>Wicked</hi> by <hi>Perfidious Knaves;</hi>
+               </l>
+               <l>By No Man <hi>Rul'd,</hi> but <hi>Kept in Awe</hi> by Slaves.</l>
+               <pb n="2" facs="tcp:204927:4"/>
+               <l>Oh, how we greiv'd to ſee that <hi>Vip'rous Brood,</hi>
+               </l>
+               <l>By whoſe Black, <hi>Helliſh</hi> Sire, the Royall Bloud</l>
+               <l>Of <hi>Bleſſed</hi> CHARLES was ſhed, to bear the ſway?</l>
+               <l>And (which was worſe) to ſee that none but They</l>
+               <l>Or Their ſmall <hi>Myrmidons</hi> ſhould be the Men</l>
+               <l>Eſteem'd for <hi>Godly?</hi> 'as if the DEVIL, agen</l>
+               <l>Had on thoſe <hi>Cloathes,</hi> which once in HEAVEN he Wore.</l>
+               <l>He learns to <hi>Bleat,</hi> who ſtill was wont to <hi>Roar.</hi>
+               </l>
+               <l>But now thoſe <hi>Varlets</hi> are, as they ſhould be,</l>
+               <l>Sunck in the Depth of Scorne and Infamy;</l>
+               <l>
+                  <hi>Thrown down</hi> ev'n by Thoſe Hands, which did them <hi>Raiſe:</hi>
+               </l>
+               <l>
+                  <hi>Revil'd</hi> by Thoſe, who gave them greateſt Praiſe.</l>
+               <l>See, Rebels, See the HAND OF GOD. Where now</l>
+               <l>Are all thoſe <hi>Lawrels,</hi> which once Crownd the Brow</l>
+               <l>Of that <hi>Victorious</hi>-CROMWEL? They were all</l>
+               <l>Turn'd into <hi>Aſhes</hi> at his <hi>Funerall,</hi>
+               </l>
+               <l>And Cover'd in His <hi>Urne.</hi> But firſt, thoſe <hi>Bayes</hi>
+               </l>
+               <l>GOD Uſ'd for <hi>Rods</hi> to <hi>VVhip</hi> His Sons: His Praiſe</l>
+               <l>
+                  <hi>Survive'd</hi> Him but for This: That His Great Name</l>
+               <l>Might <hi>Raiſe</hi> Them <hi>up,</hi> that They might <hi>Fall</hi> with Shame.</l>
+               <l>And thoſe Wild Wretches, who <hi>Drew down</hi> Theſe Elves,</l>
+               <l>
+                  <hi>Pull'd</hi> Them on their own Heads, and <hi>Fell</hi> Themſelves;</l>
+               <pb n="3" facs="tcp:204927:4"/>
+               <l>Still <hi>Tumbling</hi> on th' other: 'till their <hi>Fall</hi>
+               </l>
+               <l>Had made ſome way for that Brave GENERAL,</l>
+               <l>The Clorious MONCK, to <hi>Step up</hi> to that Height,</l>
+               <l>Where being <hi>Fixt,</hi> He had no need to <hi>Fight:</hi>
+               </l>
+               <l>He <hi>Conquerd</hi> by His Words: Three Nations came</l>
+               <l>Streight to do <hi>Homage</hi> to His Mighty NAME.</l>
+               <l>Thus having All in's Hands: He gave the <hi>Power</hi>
+               </l>
+               <l>To Him whoſe <hi>Right</hi> it was: made Himſelfe <hi>Lower.</hi>
+               </l>
+               <l>He might be, which he would of theſe Two Things,</l>
+               <l>
+                  <hi>The Beſt of Subjects,</hi> or <hi>The Worſt of Kings:</hi>
+               </l>
+               <l>By Leſſ'nings <hi>Power</hi> thus He Gain'd more <hi>Renown,</hi>
+               </l>
+               <l>'Twas HEAVEN <hi>Gave</hi> CHARLES, but MONCK <hi>Put on</hi> His CROWN.</l>
+               <l>Now that our KING's PROCLAIM'D, what ſhall we ſay?</l>
+               <l>
+                  <hi>Sure this Bleſt Month</hi> will make our <hi>Years</hi> all MAY. <note place="margin">
+                     <hi>The KING</hi> was <hi>Pro<g ref="char:EOLhyphen"/>claim'd</hi> in <hi>May</hi>—60.</note>
+               </l>
+               <l>What <hi>Pleaſant</hi> Daies ſhall we have now, when He</l>
+               <l>Who hath not only <hi>Strength,</hi> but <hi>MAIESTY,</hi>
+               </l>
+               <l>And <hi>Lawfull Power</hi> ſhall only bear the ſway,</l>
+               <l>And with his <hi>Looks</hi> Fright SAINT-<hi>like</hi> Fiends away?</l>
+               <l>This was ith' number of our late Complaints,</l>
+               <l>That the worſt Villaines were <hi>eſteemd</hi> Beſt <hi>SAINTS.</hi>
+               </l>
+               <l>But now our SVN <hi>is up,</hi> and all is Clear,</l>
+               <pb n="4" facs="tcp:204927:5"/>
+               <l>And Knaves, and Rebels, as they <hi>Are, Appear.</hi>
+               </l>
+               <l>Now we may Teach each poor Deluded Thing,</l>
+               <l>That 'tis not <hi>Treaſon</hi> to be <hi>for the</hi> KING.</l>
+               <l>Where are thoſe <hi>Mock-SAINTS</hi> now? Thus (as they ſay)</l>
+               <l>The DEVIL <hi>VValkes not,</hi> when he ſees 'tis <hi>Day.</hi>
+               </l>
+               <l>O, that They, who did Boaſt their Cauſe to be</l>
+               <l>Moſt <hi>Juſt,</hi> becauſe 'twas <hi>Proſperous,</hi> would See</l>
+               <l>What GOD has Wrought for Him, whom They'd With<g ref="char:EOLhyphen"/>ſtand.</l>
+               <l>What <hi>Wonders</hi> GOD has Shewn to bring this Land</l>
+               <l>Into <hi>Subjection</hi> to their Lawfull KING,</l>
+               <l>(The <hi>Theme's</hi> too High for Me) let ANGELS <hi>Sing.</hi>
+               </l>
+               <l>Yea ſure the <hi>Heav'nly Hoſt</hi> do all Proclaime</l>
+               <l>The Praiſe of This Great Act, Due to the Name</l>
+               <l>Of Him, by whom KINGS <hi>Raign.</hi> And O that I</l>
+               <l>Could make my <hi>Soule,</hi> wing'd with <hi>Devotion</hi> Flie</l>
+               <l>To GOD! And <hi>Think</hi> (what <hi>Words</hi> can't reach) His Praiſe!</l>
+               <l>Who without <hi>Blood</hi> has Crown'd our KING with <hi>Baies,</hi>
+               </l>
+               <l>Brought from Three <hi>Conquer'd</hi> Nations: Which now He</l>
+               <l>Holds in <hi>Subjestion,</hi> but to keep them <hi>Free:</hi>
+               </l>
+               <l>Even from that <hi>Yoke</hi> of Bondage, which of late</l>
+               <l>So <hi>Gall'd</hi> our Necks; whilſt That, they call'd a State,</l>
+               <pb n="5" facs="tcp:204927:5"/>
+               <l>Was nought but <hi>Madmen ſitting at the Helme:</hi>
+               </l>
+               <l>'Twas a Great <hi>Bedlam,</hi> which is now a <hi>Realme.</hi>
+               </l>
+               <l>Worſe then <hi>Egyptian</hi> Bondage This, to be</l>
+               <l>The <hi>Subjects</hi> of the <hi>Popularity:</hi>
+               </l>
+               <l>And thoſe ſo <hi>Giddy-headed</hi> too, that none</l>
+               <l>Knew what to Do, or what to leave Vndone.</l>
+               <l>Each little Writer ev'ry week brings in</l>
+               <l>His <hi>Forme</hi> of Government: as if 't had bin</l>
+               <l>Not harder to new Mould a Kingdome, then</l>
+               <l>
+                  <hi>To get a Standiſh, and to make a Pen.</hi>
+               </l>
+               <l>Nay <hi>HEVVSON,</hi> and the like <hi>Mechanicks</hi> Prate</l>
+               <l>Like the <hi>Supporters</hi> of a <hi>Ruinous</hi> State,</l>
+               <l>As if they thought it were no more to doe</l>
+               <l>To <hi>Frame</hi> a State, then 'tis to <hi>make a Shoe.</hi>
+               </l>
+               <l>But thoſe <hi>Mad</hi> Times are paſt, and now we are</l>
+               <l>Even <hi>Reſcu'd</hi> from the SWORD without a WAR.</l>
+               <l>Without a VVAR Great <hi>CHARLES</hi> His Kingdomes VVon:</l>
+               <l>Thus ſtraight, when GOD wil Have't, the Thing is Done.</l>
+               <l>And now, Bleſt Prince, ſith by Your <hi>Suffrings</hi> You</l>
+               <l>Have made the VVorld to know what You can Doe</l>
+               <pb n="6" facs="tcp:204927:6"/>
+               <l>In <hi>Better Times;</hi> who Did ſo well in <hi>Ill:</hi>
+               </l>
+               <l>Still Conqu'ring all thoſe <hi>Paſſions,</hi> vvhich do Still</l>
+               <l>Invade th' <hi>Opprest:</hi> No <hi>Fear,</hi> or <hi>Anger</hi> could</l>
+               <l>
+                  <hi>Caſt</hi> your Brave Soule in an Vnchriſtian <hi>Mould,</hi>
+               </l>
+               <l>In all Your <hi>Wrongs,</hi> and <hi>Dangers;</hi> ſtill your Mind</l>
+               <l>Was to <hi>Religion, luſtice,</hi> GOD, Inclin'd.</l>
+               <l>Nay vvhen ſome Griefs, and Troubles needs muſt come</l>
+               <l>To get, Great SIR, in Your large Breaſt <hi>ſome</hi> roome,</l>
+               <l>Your <hi>Mind</hi> ſtands Firme, &amp; all <hi>rough thoughts</hi> Outbraves;</l>
+               <l>Like <hi>Rocks</hi> Unmov'd vvith the moſt Boiſt'rous Waves.</l>
+               <l>Since You by <hi>Suff'ring</hi> Thus, have made us knovv</l>
+               <l>The True Height of Your Soul O, may vve <hi>Bow,</hi>
+               </l>
+               <l>In a deep Senſe of our Felicitie,</l>
+               <l>To Heaven firſt, next to Your ſelfe, our <hi>Knee.</hi>
+               </l>
+               <l>Oh, may vve Thankfull be, and ſing His Praiſe,</l>
+               <l>Who for our <hi>Cypreſs</hi> novv has giv'n us <hi>Baies:</hi>
+               </l>
+               <l>May vve give GOD and CAESAR All their Due,</l>
+               <l>And Him Obey ſtill, in Obeying You.</l>
+               <l>With <hi>Tears</hi> of Joy that You are now Come in,</l>
+               <l>And Sorrow that your <hi>MAIESTY</hi> has bin</l>
+               <l>So long Time Abſent, vve vvould make a Floud</l>
+               <l>To <hi>Waſh</hi> this LAND, <hi>Staind</hi> vvith Your FATHERS <hi>Bloud.</hi>
+               </l>
+               <pb n="7" facs="tcp:204927:6"/>
+               <l>Who, both in Life and <hi>Death</hi> ſo Conqu'ring Fate,</l>
+               <l>Was ne're <hi>Vnhappy,</hi> though <hi>Vnfortunate:</hi>
+               </l>
+               <l>What Glory gain'd He by His Sufferings?</l>
+               <l>He <hi>Liv'd,</hi> and <hi>Dy'd,</hi> even like the KING OF KINGS.</l>
+               <l>O may You <hi>Guide</hi> us, as He would have done,</l>
+               <l>Had we not <hi>Run</hi> into Rebellion.</l>
+               <l>May You <hi>Live</hi> Thoſe <hi>Great Things,</hi> He VVrote; and Be</l>
+               <l>Your Selfe A New ΕΙΚΩΝ ΒΑΣΙΛΙΚΗ.</l>
+               <l>To His Great <hi>Praiſe</hi> may You ſtill Adde Your Own,</l>
+               <l>'Till You Change This for an <hi>Eternall CROVVN.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:204927:7"/>
+            <pb facs="tcp:204927:7"/>
+            <head>TO <hi>HIS EXCELLENCY</hi> THE LORD GENERAL MONCK.</head>
+            <head type="sub">
+               <hi>April</hi> 18. 1660.</head>
+            <lg>
+               <l>GOE on, <hi>Wiſe SIR,</hi> and make Your Selfe The <hi>GREAT,</hi>
+               </l>
+               <l>By <hi>Conqu'ring</hi> Thoſe, whom You Diſdaine to <hi>Beat,</hi>
+               </l>
+               <l>What Wonder will Your <hi>Bloodleſſe</hi> Triumphs gaine!</l>
+               <l>THREE KINGDOMES <hi>Conquer'd,</hi> and not <hi>One Man</hi> Slain!</l>
+               <l>Your <hi>Valour</hi> thus, with Matchleſſe <hi>Prudence,</hi> can</l>
+               <l>Diſtroy the <hi>FOE,</hi> and yet not Hurt the <hi>Man:</hi>
+               </l>
+               <pb n="10" facs="tcp:204927:8"/>
+               <l>We Long to ſee the Time, when You'll Appeare</l>
+               <l>To Be, what Good Men Hope, what Others Fear</l>
+               <l>That This <hi>Dark CHAOS</hi> of Affaires may be</l>
+               <l>But a Reſemblance of the <hi>Infancy</hi>
+               </l>
+               <l>Of the <hi>CREATION:</hi> which began in <hi>Night:</hi>
+               </l>
+               <l>
+                  <hi>Confuſion</hi> Brought forth <hi>Order, Darkneſſe Light.</hi>
+               </l>
+               <l>Truſt not in Your owne Strength: be ſure to Doe</l>
+               <l>What <hi>Honour, Law</hi> and <hi>Conſcience</hi> Binds You to:</l>
+               <l>So You may Juſtly Hope, that <hi>HE,</hi> whoſe Hand</l>
+               <l>Has <hi>Set</hi> You <hi>Up;</hi> will give You Power to <hi>Stand.</hi>
+               </l>
+               <l>Stand, <hi>NOBLE SIR,</hi> that Our <hi>Bow'd Necks</hi> may be</l>
+               <l>Rais'd by Your Hand to our Old <note n="*" place="margin">—<hi>Nunquam Libertas gratior extat Quam ſub Rege Pio</hi>—Claud.</note> 
+                  <hi>Liberty</hi>
+               </l>
+               <l>Then, <hi>ENGLAND'S</hi> Mourning turn'd to Joy, We'll Sing:</l>
+               <l>CROMWEL <hi>Kill'd</hi> CHARLES! But MONCK <hi>Re<g ref="char:EOLhyphen"/>viv'd</hi> the KING.</l>
+            </lg>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:204927:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
